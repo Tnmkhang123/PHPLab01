@@ -8,4 +8,3 @@ const EXPRESS_RATE = 0.3;
 const PREMIUM_MIN = 50000;
 const PREMIUM_DISCOUNT_RATE = 0.1;
 const TAX_RATE = 0.08;
-// Pure PHP file: intentionally no closing tag

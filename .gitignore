@@ -1,5 +1,4 @@
-# .gitignore
 .vscode/
 .idea/
 *.log
-.DS_Store.DS_Store
+.DS_Store
